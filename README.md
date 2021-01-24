@@ -26,7 +26,7 @@
 
 ## 使用用法
 * 点击右上角 `Fork` 项目；
-* `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；
+* `Settings` -> `Secrets` 中添加京东Cookie、Server酱SCKEY；点击New repository secret进行添加；
 	- `JD_COOKIE`：账号1Cookie
 	- `JD_DUAL_COOKIE`：账号2Cookie(选填)
 	- `PUSH_KEY`：Server酱SCKEY
